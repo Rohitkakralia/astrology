@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Chandigarh",
+    "state": "Punjab",
+    "country": "India",
+    "lat": 30.7333,
+    "lon": 76.7794,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "country": "India",
+    "lat": 30.9090157,
+    "lon": 75.851601,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "city": "Surat",
+    "state": "Gujarat",
+    "country": "India",
+    "lat": 21.2094892,
+    "lon": 72.8317058,
+    "tz": "Asia/Kolkata"
+  },
+  {
+    "city": "شیراز",
+    "state": "استان فارس",
+    "country": "ایران",
+    "lat": 29.6238166,
+    "lon": 52.5271611,
+    "tz": "Asia/Tehran"
+  },
+  {
+    "city": "Suratgarh",
+    "state": "Rajasthan",
+    "country": "India",
+    "lat": 29.3203309,
+    "lon": 73.9026728,
+    "tz": "Asia/Kolkata"
+  }
+]
